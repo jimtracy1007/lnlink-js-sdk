@@ -1,5 +1,5 @@
 {
-  "name": "lnlink-js-sdk",
+  "name": "@lnfi-network/lnlink-js-sdk",
   "version": "1.0.0",
   "license": "MIT",
   "type": "module",
